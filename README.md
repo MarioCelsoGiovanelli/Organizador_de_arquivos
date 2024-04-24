@@ -52,6 +52,17 @@ O arquivo **organizador.py** pode ser usado em um terminal
 Python organizador.py
 ````
 
+## 	:bookmark_tabs: Arquivo Requirements:
+É um arquivo de texto formato **.txt**. Neste arquivo está especificado todos os pacotes e bibliotecas que são utilizados no projeto; isso ajuda como garantia que, se o projeto for usado por outro desenvolvedor, não ocorram erros ou problemas causados por alguma atualização na versão do pacote ou descontinuidade na linguagem Python.
+
+Para instalar, entre no terminal **Ctrl + ‘** e instale o requirements para usar todos os pacotes na mesma versão que foi utilizada no projeto. 
+
+````python
+pip install -r requirements.txt
+````
+:film_projector:
+
+<img src=".\Animação03.gif" alt="Código 2 funcionando" width="600px" heidth="400px">
 
 ## :computer: Técnicas e Tecnologias utilizadas:
 - Método **os**
